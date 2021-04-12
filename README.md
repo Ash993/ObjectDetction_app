@@ -1,6 +1,6 @@
 # objectdetection_app
 
-A new Flutter application.
+A new Flutter application. Used TenserFlow Lite for detecting the object in an image
 
 ## Getting Started
 
